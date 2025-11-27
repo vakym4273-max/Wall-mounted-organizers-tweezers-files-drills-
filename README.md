@@ -1,6 +1,8 @@
 # 🛠️ Набор органайзеров для FabLab: свёрла, пинцеты, надфили
+## 🏷️ Topics
 
-*Поворотно-выдвижной механизм для удобного доступа к инструментам*
+`3d-printing` `laser-cutting` `solidworks` `tool-organizer` `digital-fabrication` `mechanical-design` `prototyping` `fablab` `cad`
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![SolidWorks](https://img.shields.io/badge/CAD-SolidWorks-blue)](https://www.solidworks.com/)
@@ -26,7 +28,29 @@
 ![Работа механизма свёрел](https://github.com/vakym4273-max/Wall-mounted-organizers-tweezers-files-drills-/blob/main/Media/Gifs/VID20251121181030~2%20(2).gif?raw=true)
 
 ## 📁 Структура проекта
+**📁 CAD/**
 
+│ ├── SolidWorks/ # Исходные файлы .SLDPRT, .SLDASM
+
+│ └── STEP/ # Сборки в формате STEP
+
+**📁 Production/**
+
+│ ├── 3D_Print/ # STL и gcode файлы для 3D-печати
+
+│ └── Laser_Cut/ # DXF файлы для лазерной резки
+
+**📁 Documentation/**
+
+│ ├── Технологический процесс сборки# Инструкция по сборке
+
+**📁 Media/**
+
+│ ├── Photos/ # Фотографии процесса и результата
+
+│ ├── Videos/ # Видео сборки и работы
+
+│ └── Gifs/ # Анимированные демонстрации
 
 ## 🛠 Технологии и материалы
 
