@@ -23,7 +23,7 @@
 
 ## 🎥 Демонстрация
 
-Работа механизма свёрел](Media/Gifs/VID20251121181030~2 (2).gif)
+![Работа механизма свёрел](https://github.com/vakym4273-max/Wall-mounted-organizers-tweezers-files-drills-/blob/main/Media/Gifs/VID20251121181030~2%20(2).gif?raw=true)
 
 ## 📁 Структура проекта
 
