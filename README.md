@@ -1,8 +1,6 @@
 # 🛠️ Набор органайзеров для FabLab: свёрла, пинцеты, надфили
-## 🏷️ Topics
 
-`3d-printing` `laser-cutting` `solidworks` `tool-organizer` `digital-fabrication` `mechanical-design` `prototyping` `fablab` `cad`
-
+*Поворотно-выдвижной механизм для удобного доступа к инструментам*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![SolidWorks](https://img.shields.io/badge/CAD-SolidWorks-blue)](https://www.solidworks.com/)
